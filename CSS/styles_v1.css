@@ -1,0 +1,24 @@
+/* General body styling */
+body {
+    background-color: #EDEFEE;
+    font-family: 'Markazi Text', serif;
+    margin: 0;
+    padding: 0;
+} 
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    padding: 40px 0;
+    background-color: #f0f2ef;
+}
+
+header > img {
+    width: 250px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
